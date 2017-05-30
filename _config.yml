@@ -1,13 +1,13 @@
 # Site settings
-title: 生命不止，折腾不息
-author: MonsterSlayer
+title: Zach Chan's Blog
+author: Zach Chan
 author_avatar: /images/header.jpg
-email: alias@domain.tld
+email: me@zachchan.com
 description: 生命不止，折腾不息 
-url: "https://dongyado.github.io"
-domain: "http://dongyado.com"
-github_username: dongyado
-github_site_repo: dongyado/dongyado.github.io
+url: "https://blog.zachchan.com"
+domain: ""
+github_username: zach-c
+github_site_repo: zach-c/dongyado.github.io
 disqus: monsterslayer
 
 
